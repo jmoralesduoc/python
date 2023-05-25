@@ -1,0 +1,12 @@
+lista = [1,1,3]
+count = len(lista)
+print(count)
+
+lista2 = lista.copy()
+print(lista2)
+
+
+totalliviano = 3000
+totalnormal = 2000
+totalbulto = totalliviano + totalnormal
+print(f"Total bulto {totalliviano + totalnormal}")
